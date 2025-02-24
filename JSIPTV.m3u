@@ -163,19 +163,11 @@ http://ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
 #EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/无锡新闻综合.png" group-title="江苏地方",无锡新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州新闻综合.png" group-title="江苏地方",常州新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州新闻综合.png" group-title="江苏地方",常州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
-#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州都市.png" group-title="江苏地方",常州都市
-http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
 #EXTINF:-1 tvg-name="常州都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州都市.png" group-title="江苏地方",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
 #EXTINF:-1 tvg-name="常州生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州生活.png" group-title="江苏地方",常州生活
-http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
-#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州生活.png" group-title="江苏地方",常州生活
 http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
-#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州公共.png" group-title="江苏地方",常州公共
-http://ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
 #EXTINF:-1 tvg-name="常州公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州公共.png" group-title="江苏地方",常州公共
 http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南通新闻综合.png" group-title="江苏地方",南通新闻综合
@@ -206,8 +198,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 tvg-name="徐州公共频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州4.png" group-title="江苏地方",徐州公共频道
 http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-name="淮安综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安综合.png" group-title="江苏地方",淮安综合
-http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
 #EXTINF:-1 tvg-name="淮安综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安综合.png" group-title="江苏地方",淮安综合
 http://ott.mobaibox.com/PLTV/3/224/3221228834/index.m3u8
 #EXTINF:-1 tvg-name="淮安公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安公共.png" group-title="江苏地方",淮安公共
