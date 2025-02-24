@@ -186,10 +186,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
 #EXTINF:-1 tvg-name="扬州江都台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/扬州江都台.png" group-title="江苏地方",扬州江都台
 http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8
-#EXTINF:-1 tvg-name="宝应新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/宝应新闻综合.png" group-title="江苏地方",宝应新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
-#EXTINF:-1 tvg-name="宝应生活资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/宝应生活资讯.png" group-title="江苏地方",宝应生活资讯
-http://ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/镇江新闻综合.png" group-title="江苏地方",镇江新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
 #EXTINF:-1 tvg-name="镇江社会民生" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/镇江2.png" group-title="江苏地方",镇江社会民生
@@ -210,32 +206,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 tvg-name="徐州公共频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州4.png" group-title="江苏地方",徐州公共频道
 http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/邳州综合.png" group-title="江苏地方",邳州综合
-http://ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
-#EXTINF:-1 tvg-name="新沂1台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/新沂1台.png" group-title="江苏地方",新沂1台
-http://ott.mobaibox.com/PLTV/3/224/3221227292/index.m3u8
-#EXTINF:-1 tvg-name="沛县新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/沛县新闻综合.png" group-title="江苏地方",沛县新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
-#EXTINF:-1 tvg-name="沛县经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/沛县经济生活.png" group-title="江苏地方",沛县经济生活
-http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
-#EXTINF:-1 tvg-name="沛县文艺影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/沛县文艺影视.png" group-title="江苏地方",沛县文艺影视
-http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
-#EXTINF:-1 tvg-name="睢宁综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睢宁综合.png" group-title="江苏地方",睢宁综合
-http://ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
-#EXTINF:-1 tvg-name="睢宁三农" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睢宁三农.png" group-title="江苏地方",睢宁三农
-http://ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
-#EXTINF:-1 tvg-name="睢宁资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睢宁资讯.png" group-title="江苏地方",睢宁资讯
-http://ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8
-#EXTINF:-1 tvg-name="睢宁资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睢宁资讯.png" group-title="江苏地方",睢宁资讯
-http://ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8
-#EXTINF:-1 tvg-name="铜山-1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/铜山1.png" group-title="江苏地方",铜山-1
-http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
-#EXTINF:-1 tvg-name="铜山-2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/铜山2.png" group-title="江苏地方",铜山-2
-http://ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
-#EXTINF:-1 tvg-name="铜山-3" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/铜山3.png" group-title="江苏地方",铜山-3
-http://ott.mobaibox.com/PLTV/3/224/3221228055/index.m3u8
-#EXTINF:-1 tvg-name="铜山-4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/铜山4.png" group-title="江苏地方",铜山-4
-http://ott.mobaibox.com/PLTV/3/224/3221228249/index.m3u8
 #EXTINF:-1 tvg-name="淮安综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安综合.png" group-title="江苏地方",淮安综合
 http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
 #EXTINF:-1 tvg-name="淮安综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安综合.png" group-title="江苏地方",淮安综合
@@ -244,20 +214,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228834/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8
 #EXTINF:-1 tvg-name="淮安影视娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安影视娱乐.png" group-title="江苏地方",淮安影视娱乐
 http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/连云港新闻综合.png" group-title="江苏地方",连云港新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
 #EXTINF:-1 tvg-name="连云港生活频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/连云港生活频道.png" group-title="江苏地方",连云港生活频道
 http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
-#EXTINF:-1 tvg-name="赣榆公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/赣榆公共.png" group-title="江苏地方",赣榆公共
-http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
-#EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/赣榆新闻综合.png" group-title="江苏地方",赣榆新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
-#EXTINF:-1 tvg-name="东海综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东海综合.png" group-title="江苏地方",东海综合
-http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
-#EXTINF:-1 tvg-name="东海文娱" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东海文娱.png" group-title="江苏地方",东海文娱
-http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
-#EXTINF:-1 tvg-name="东海国学与家道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东海国学与家道.png" group-title="江苏地方",东海国学与家道
-http://ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8
-#EXTINF:-1 tvg-name="灌南公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/灌南公共.png" group-title="江苏地方",灌南公共
-http://ott.mobaibox.com/PLTV/3/224/3221228725/index.m3u8
 #EXTINF:-1 tvg-name="盐城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/盐城1.png" group-title="江苏地方",盐城新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 #EXTINF:-1 tvg-name="盐城法制生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/盐城2.png" group-title="江苏地方",盐城法制生活
@@ -268,8 +228,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
 #EXTINF:-1 tvg-name="宿迁公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/宿迁公共.png" group-title="江苏地方",宿迁公共
 http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
-#EXTINF:-1 tvg-name="沭阳综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/沭阳综合.png" group-title="江苏地方",沭阳综合
-http://ott.mobaibox.com/PLTV/3/224/3221228812/index.m3u8
 
 #北京地方
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京纪实科教.png" group-title="北京地方",纪实科教
@@ -559,7 +517,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
 #EXTINF:-1 tvg-name="亲宝玩具" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/亲宝玩具.png" group-title="数字频道",亲宝玩具
 http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
-#EXTINF:-1 tvg-name="自然风景" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/自然风景.png" group-title="数字频道",自然风景
+#EXTINF:-1 tvg-name="自然地理" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/自然地理.png" group-title="数字频道",自然地理
 http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
 #EXTINF:-1 tvg-name="怀旧MTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/怀旧MTV.png" group-title="数字频道",怀旧MTV
 http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
@@ -609,6 +567,8 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVBPlus.png" group-title="港澳频道",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/ViuTV.png" group-title="港澳频道",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/HOYTV.png" group-title="港澳频道",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTHK31.png" group-title="港澳频道",港台电视31
